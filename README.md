@@ -9,4 +9,4 @@ _Software Engineer_ · _Open Source Enthusiast_ · _JUnit Team Lead_ · _Confere
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/email-contact@marcphilipp.de-green?logo=maildotru&logoColor=white)](https://marcphilipp.de/contact)
+[![Email](https://img.shields.io/badge/email-contact@marcphilipp.de-green?logo=maildotru&logoColor=white)](https://marcphilipp.de/en/contact/)
