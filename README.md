@@ -7,11 +7,6 @@ _Software Engineer_ · _Open Source Enthusiast_ · _JUnit Team Lead_ · _Confere
 - 💼 Now an [independent engineering consultant](https://marcphilipp.de/en/services/) focussing on: Software Delivery Performance (Gradle, Maven, GitHub Actions, etc.), JUnit, Digital Sovereignty, and Open Source
 - 🎤 I regularly [give talks](https://marcphilipp.de/en/talks/) at conferences
 
-## Connect
+## Contact
 
-[![Email](https://img.shields.io/badge/email-contact@marcphilipp.de-green)](https://marcphilipp.de/contact)
-[![Website](https://img.shields.io/badge/Website-marcphilipp.de-blue)](https://marcphilipp.de)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@marcphilipp.de-0285FF)](https://bsky.app/profile/marcphilipp.de)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@marcphilipp-6364FF)](https://chaos.social/@marcphilipp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcphilipp-0A66C2)](https://www.linkedin.com/in/marcphilipp)
-
+[![Email](https://img.shields.io/badge/email-contact@marcphilipp.de-green?logo=maildotru&logoColor=white)](https://marcphilipp.de/contact)
